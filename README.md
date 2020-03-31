@@ -2,4 +2,4 @@
 
 link to live site: https://g1th.github.io/Covid19-Myanmar/
 
-<iframe src="https://g1th.github.io/leaflet-maps-with-google-sheets" width ="500%" height="400"></iframe>
+<iframe src="https://g1th.github.io/leaflet-maps-with-google-sheets" width ="200%" height="400"></iframe>
